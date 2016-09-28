@@ -1,5 +1,5 @@
 ---
-layout: default
+Home
 ---
 
 <div class="home">
