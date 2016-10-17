@@ -19,17 +19,6 @@ You will need to put in a valid email that you can login to, and make a URL that
 > How to insert your own google analytics:
 > http://www.lunametrics.com/blog/2012/02/09/where-put-google-tracking-code/
 
-The Home Page
--------------
-
-This page will give a link to the WordPress Login, and then describe what they need to do if:
-		
-
- - They haven’t made an account 
- - They forgot their account information 		
- - Otherwise follow the directions that WordPres gives to construct everything effectively. 
- - Make sure to use
-   a valid email address that you can reach later.
 
 The Procedure Page
 -------------
