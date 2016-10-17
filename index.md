@@ -1,21 +1,17 @@
-name: "my-website"
-navbar:
-  title: "How to make a WordPress Website"
-  left:
-    - text: "Home"
-      href: index.md
-    - text: "About"
-      href: about.md
+
 Home: How to make a WordPress Website 
 ======
 
-1.  Go to WordPress and click the Sign-Up button.
+Go to WordPress and click the Sign-Up button.
 
-2. You will need to put in a valid email that you can login to, and make a URL that you want for your blog to have. 
-  * In general, follow the directions that WordPress gives you. 
-3. Choose a theme
-  * I will include some of the themes that have been proven to be the most user friendly to put together and the themes that are the most user friendly to navigate. 
-  * I will link to articles on how to write effective blog articles that people read through to the end. The trouble-shooting portion of the documentation area will include how to insert google analytics, and how to code your own WordPress Theme. 
+You will need to put in a valid email that you can login to, and make a URL that you want for your blog to have. In general, follow the directions that WordPress gives you.
 
+> Here are some themes to get some ideas on what your website should
+> looklike:
+> https://colorlib.com/wp/popular-multipurpose-wordpress-themes/
+> 
+> 
+> How to insert your own google analytics:
+> http://www.lunametrics.com/blog/2012/02/09/where-put-google-tracking-code/
 
 
