@@ -7,15 +7,17 @@ permalink: /Plan/
 
 How to make a WordPress Blog
 ----
-I changed the idea, mainly because I didn’t do that great of a job on the last assignment. This seems easier to follow through on. 
 Go to WordPress and click the Sign-Up button.
 You will need to put in a valid email that you can login to, and make a URL that you want for your blog to have. In general, follow the directions that WordPress gives you.
-I will include some of the themes that have been proven to be the most user friendly to put together and the themes that are the most user friendly to navigate. I will link to articles on how to write effective blog articles that people read through to the end. The trouble-shooting portion of the documentation area will include how to insert google analytics, and how to code your own WordPress Theme. 
-
+Here are some themes to get some ideas on what your website should looklike: https://colorlib.com/wp/popular-multipurpose-wordpress-themes/
+Here is how to write an effective blog article: http://blog.hubspot.com/marketing/how-to-write-blog-post-simple-formula-ht#sm.00013q4l2s17ked94x5csx676ed8u
+How to insert your own google analytics: http://www.lunametrics.com/blog/2012/02/09/where-put-google-tracking-code/
+Index to help you code your own WordPress Theme:https://codex.wordpress.org/Theme_Development
 The Home Page
 -------------
 
-	This page will give a link to the WordPress Login, and then describe what they need to do if:
+	This is the WordPress Login: https://wordpress.com/wp-login.php
+	Otherwise, follow the directions on the website. It is very user friendly. 
 		
 
  - They haven’t made an account 
