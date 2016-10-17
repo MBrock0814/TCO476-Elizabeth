@@ -8,11 +8,17 @@ permalink: /Plan/
 How to make a WordPress Blog
 ----
 Go to WordPress and click the Sign-Up button.
+
 You will need to put in a valid email that you can login to, and make a URL that you want for your blog to have. In general, follow the directions that WordPress gives you.
-Here are some themes to get some ideas on what your website should looklike: https://colorlib.com/wp/popular-multipurpose-wordpress-themes/
-Here is how to write an effective blog article: http://blog.hubspot.com/marketing/how-to-write-blog-post-simple-formula-ht#sm.00013q4l2s17ked94x5csx676ed8u
-How to insert your own google analytics: http://www.lunametrics.com/blog/2012/02/09/where-put-google-tracking-code/
-Index to help you code your own WordPress Theme:https://codex.wordpress.org/Theme_Development
+
+> Here are some themes to get some ideas on what your website should
+> looklike:
+> https://colorlib.com/wp/popular-multipurpose-wordpress-themes/
+> 
+> 
+> How to insert your own google analytics:
+> http://www.lunametrics.com/blog/2012/02/09/where-put-google-tracking-code/
+> 
 The Home Page
 -------------
 
