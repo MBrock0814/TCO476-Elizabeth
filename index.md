@@ -1,3 +1,11 @@
+name: "my-website"
+navbar:
+  title: "How to make a WordPress Website"
+  left:
+    - text: "Home"
+      href: index.md
+    - text: "About"
+      href: about.md
 Home: How to make a WordPress Website 
 ======
 
