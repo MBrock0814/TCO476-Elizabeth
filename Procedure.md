@@ -1,3 +1,8 @@
+---
+layout: page
+title: Procedure
+permalink: /Procedure/
+---
 The Procedure Page
 ==================
 
