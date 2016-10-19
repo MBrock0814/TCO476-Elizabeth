@@ -1,3 +1,8 @@
+---
+layout: page
+title: Reference
+permalink: /Reference/
+---
 Reference Page
 -------------
 This page goes over how to input Google Analytics, how to make adwords, how to hashtag, and how to use any built-in analytics that WordPress has to offer.
