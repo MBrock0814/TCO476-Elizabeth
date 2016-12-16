@@ -3,8 +3,8 @@ layout: page
 title: Home
 permalink: /Home/
 ---
-Home: How to make a WordPress Website 
-======
+##Home
+###How to make a WordPress Website 
 
 Go to WordPress and click the Sign-Up button.
 
