@@ -3,7 +3,7 @@ layout: page
 title: Reference
 permalink: /Reference/
 ---
-Reference Page
+##Reference Page
 -------------
 This page goes over how to input Google Analytics, how to make adwords, how to hashtag, and how to use any built-in analytics that WordPress has to offer.
 There may be some interest on how to code a WordPress Theme, so that will be covered here too. Troubleshooting may be extensive, so that could get its own Link Hierarchy if needed.
